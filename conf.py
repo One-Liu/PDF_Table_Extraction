@@ -6,8 +6,8 @@ def conf_environment() -> dict:
         pdf_test_conf = conf.read()
 
     confs = {}
-    match_file_path = re.search(r'path = ([\S]+)', pdf_test_conf)
-    match_destiny_path = re.search(r'destiny = ([\S]+)', pdf_test_conf)
+    match_file_path = re.search(r'path = ([\S ]+)', pdf_test_conf)
+    match_destiny_path = re.search(r'destiny = ([\S ]+)', pdf_test_conf)
     
     if not match_file_path:
         print('Origin path was not specified')
