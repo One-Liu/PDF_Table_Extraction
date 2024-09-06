@@ -1,0 +1,18 @@
+# Sources 
+destiny = exported_data\
+path = data_sources\tableception.pdf
+
+# PDF
+path = data_sources\cfdv40-cartaporte20.pdf
+path = data_sources\cfdv40-cartaporte20-min.pdf
+path = data_sources\cfdv40-ejemplo-signed-tfd.pdf
+path = data_sources\cfdv40-ejemplo.pdf
+path = data_sources\cfdv40-min.pdf
+path = data_sources\cfdv40-pagos20-all.pdf
+path = data_sources\cfdv40-pagos20-min.pdf
+path = data_sources\cfdv40-pagos20.pdf
+path = data_sources\estadistica.pdf
+path = data_sources\foo.pdf
+path = data_sources\table_regions.pdf
+path = data_sources\TCR_BBVA_PLAN_V7.pdf
+path = data_sources\us-030.pdf
